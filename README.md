@@ -37,3 +37,5 @@ Because it was really boring and took alot of memory I set the `no_download` fla
 ### Notice:
 Run with Python3
 
+### Any ideas making it better ?
+Send me message at `zahra_9877@yahoo.com`
